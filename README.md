@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://api.iconify.design/lucide/trees.svg?color=%23C49A45" width="34" /> <span translate="no">P.H.Y.S.I.S</span> <img src="https://api.iconify.design/lucide/leaf.svg?color=%230B8F70" width="26" /></p>
+# <p align="center"><img src="https://api.iconify.design/lucide/trees.svg?color=%23C49A45" width="34" /> <span translate="no"> P.H.Y.S.I.S </span> <img src="https://api.iconify.design/lucide/leaf.svg?color=%230B8F70" width="26" /></p>
 
 <h3 align="center">Preservation · Habitats · Yield · Species · Indicators · Sustainability</h3>
 
