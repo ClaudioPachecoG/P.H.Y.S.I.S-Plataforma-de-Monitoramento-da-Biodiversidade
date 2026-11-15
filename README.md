@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://api.iconify.design/lucide/trees.svg?color=%23C49A45" width="34" /> PHYSIS <img src="https://api.iconify.design/lucide/leaf.svg?color=%230B8F70" width="26" /></p>
+# <p align="center"><img src="https://api.iconify.design/lucide/trees.svg?color=%23C49A45" width="34" /> P.H.Y.S.I.S <img src="https://api.iconify.design/lucide/leaf.svg?color=%230B8F70" width="26" /></p>
 
 <h3 align="center">Preservation · Habitats · Yield · Species · Indicators · Sustainability</h3>
 
@@ -20,7 +20,7 @@
 
 <h2><img src="https://api.iconify.design/lucide/leaf.svg?color=%230B8F70" width="25" /> Sobre o projeto</h2>
 
-O **PHYSIS** é uma proposta de desenvolvimento de software voltada ao **registro e acompanhamento da biodiversidade em áreas submetidas a projetos de restauração ambiental**.
+O **P.H.Y.S.I.S** é uma proposta de desenvolvimento de software voltada ao **registro e acompanhamento da biodiversidade em áreas submetidas a projetos de restauração ambiental**.
 
 A solução busca complementar o trabalho de recuperação de ecossistemas realizado pela **COLLARD Ambiental** e pelo **Sindicato Rural de Cruzeiro e Lavrinhas**, oferecendo uma ferramenta digital para organizar informações sobre a fauna silvestre observada nas propriedades e áreas monitoradas.
 
@@ -61,7 +61,7 @@ Mais do que armazenar informações, o PHYSIS pretende transformar registros amb
   Parceria institucional
 </h2>
 
-O projeto **PHYSIS** é uma proposta desenvolvida em conjunto com a **COLLARD Ambiental** e o **Sindicato Rural de Cruzeiro e Lavrinhas**, instituições que atuam em iniciativas relacionadas à recuperação ambiental, conservação dos recursos naturais e desenvolvimento sustentável na região.
+O projeto **P.H.Y.S.I.S** é uma proposta desenvolvida em conjunto com a **COLLARD Ambiental** e o **Sindicato Rural de Cruzeiro e Lavrinhas**, instituições que atuam em iniciativas relacionadas à recuperação ambiental, conservação dos recursos naturais e desenvolvimento sustentável na região.
 
 A atuação dessas instituições envolve ações voltadas à recuperação de áreas degradadas, ao acompanhamento de projetos ambientais e à promoção de práticas que contribuam para a conservação dos ecossistemas e o uso sustentável das propriedades rurais.
 
@@ -69,7 +69,7 @@ Nesse contexto, o acompanhamento da biodiversidade representa uma importante opo
 
 ### Nosso propósito
 
-O **PHYSIS** nasce com o propósito de contribuir com esse trabalho, oferecendo uma ferramenta tecnológica para organizar e centralizar informações sobre a biodiversidade observada nas áreas em recuperação.
+O **P.H.Y.S.I.S** nasce com o propósito de contribuir com esse trabalho, oferecendo uma ferramenta tecnológica para organizar e centralizar informações sobre a biodiversidade observada nas áreas em recuperação.
 
 Por meio da plataforma, será possível cadastrar áreas de monitoramento, registrar observações de animais com fotografias, localização e identificação das espécies, além de manter um histórico dos levantamentos realizados.
 
@@ -94,7 +94,7 @@ Conheça suas atividades, acompanhe suas iniciativas e apoie ações voltadas à
   Contexto de aplicação
 </h2>
 
-O PHYSIS foi concebido para complementar o trabalho de recuperação de ecossistemas realizado pela **COLLARD Ambiental** e pelo **Sindicato Rural de Cruzeiro e Lavrinhas**.
+O P.H.Y.S.I.S foi concebido para complementar o trabalho de recuperação de ecossistemas realizado pela **COLLARD Ambiental** e pelo **Sindicato Rural de Cruzeiro e Lavrinhas**.
 
 A proposta considera a necessidade de organizar informações sobre a fauna silvestre observada nas propriedades e áreas submetidas a projetos de restauração ambiental.
 
@@ -386,6 +386,6 @@ Os demais módulos e recursos serão desenvolvidos e validados progressivamente,
 
 <p align="center">
   <img src="https://api.iconify.design/lucide/leaf.svg?color=%23C49A45" width="22" />
-  <strong> PHYSIS — Revealing the Return of Life.</strong>
+  <strong> P.H.Y.S.I.S — Revelando o Retorno da Vida.</strong>
   <img src="https://api.iconify.design/lucide/sprout.svg?color=%230B8F70" width="22" />
 </p>
