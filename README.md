@@ -58,6 +58,39 @@ Mais do que armazenar informações, o PHYSIS pretende transformar registros amb
 
 <h2>
   <img src="https://api.iconify.design/lucide/handshake.svg?color=%23C49A45" width="25" align="center" alt=""/>
+  Parceria institucional
+</h2>
+
+O projeto **PHYSIS** é uma proposta desenvolvida em conjunto com a **COLLARD Ambiental** e o **Sindicato Rural de Cruzeiro e Lavrinhas**, instituições que atuam em iniciativas relacionadas à recuperação ambiental, conservação dos recursos naturais e desenvolvimento sustentável na região.
+
+A atuação dessas instituições envolve ações voltadas à recuperação de áreas degradadas, ao acompanhamento de projetos ambientais e à promoção de práticas que contribuam para a conservação dos ecossistemas e o uso sustentável das propriedades rurais.
+
+Nesse contexto, o acompanhamento da biodiversidade representa uma importante oportunidade para ampliar a compreensão dos resultados alcançados pelos projetos de restauração ambiental, permitindo observar não apenas a recuperação da vegetação, mas também as evidências do retorno da fauna silvestre aos ambientes monitorados.
+
+### Nosso propósito
+
+O **PHYSIS** nasce com o propósito de contribuir com esse trabalho, oferecendo uma ferramenta tecnológica para organizar e centralizar informações sobre a biodiversidade observada nas áreas em recuperação.
+
+Por meio da plataforma, será possível cadastrar áreas de monitoramento, registrar observações de animais com fotografias, localização e identificação das espécies, além de manter um histórico dos levantamentos realizados.
+
+As informações poderão ser organizadas em mapas, gráficos e relatórios, auxiliando no acompanhamento da evolução dos registros e na obtenção de indicadores que complementem a avaliação dos resultados da restauração ambiental.
+
+**Acreditamos que a tecnologia pode ser uma importante aliada na conservação ambiental e no acompanhamento da biodiversidade.**
+
+> Restaurar um ecossistema vai além de recuperar a vegetação. É também criar condições para que a vida silvestre volte a ocupar seu espaço.
+
+> Nosso objetivo é transformar registros ambientais em informações úteis, contribuindo para um acompanhamento mais completo dos resultados da restauração.
+
+### Conheça e apoie o trabalho das instituições
+
+O trabalho desenvolvido pela COLLARD Ambiental e pelo Sindicato Rural de Cruzeiro e Lavrinhas contribui para fortalecer iniciativas de recuperação ambiental e sustentabilidade na região.
+
+Conheça suas atividades, acompanhe suas iniciativas e apoie ações voltadas à conservação dos recursos naturais e à valorização do meio ambiente.
+
+---
+
+<h2>
+  <img src="https://api.iconify.design/lucide/handshake.svg?color=%23C49A45" width="25" align="center" alt=""/>
   Contexto de aplicação
 </h2>
 
