@@ -30,7 +30,7 @@ As informações poderão ser organizadas em mapas, gráficos e relatórios, pos
 
 Um dos principais objetivos é contribuir para uma avaliação mais abrangente dos resultados da restauração ambiental, considerando não apenas o desenvolvimento da vegetação, mas também as evidências de presença e ocorrência da fauna silvestre.
 
-Mais do que armazenar informações, o PHYSIS pretende transformar registros ambientais em dados organizados e úteis para o acompanhamento dos projetos de restauração.
+Mais do que armazenar informações, o T.H.E.R.O.N pretende transformar registros ambientais em dados organizados e úteis para o acompanhamento dos projetos de restauração.
 
 <h2><img src="https://api.iconify.design/lucide/target.svg?color=%23C49A45" width="25" /> Objetivos</h2>
 
@@ -94,7 +94,7 @@ Conheça suas atividades, acompanhe suas iniciativas e apoie ações voltadas à
   Contexto de aplicação
 </h2>
 
-O P.H.Y.S.I.S foi concebido para complementar o trabalho de recuperação de ecossistemas realizado pela **COLLARD Ambiental** e pelo **Sindicato Rural de Cruzeiro e Lavrinhas**.
+O T.H.E.R.O.N foi concebido para complementar o trabalho de recuperação de ecossistemas realizado pela **COLLARD Ambiental** e pelo **Sindicato Rural de Cruzeiro e Lavrinhas**.
 
 A proposta considera a necessidade de organizar informações sobre a fauna silvestre observada nas propriedades e áreas submetidas a projetos de restauração ambiental.
 
@@ -386,6 +386,6 @@ Os demais módulos e recursos serão desenvolvidos e validados progressivamente,
 
 <p align="center">
   <img src="https://api.iconify.design/lucide/leaf.svg?color=%23C49A45" width="22" />
-  <strong> P.H.Y.S.I.S — Revelando o Retorno da Vida.</strong>
+  <strong> T.H.E.R.O.N — Revelando o Retorno da Vida.</strong>
   <img src="https://api.iconify.design/lucide/sprout.svg?color=%230B8F70" width="22" />
 </p>
