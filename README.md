@@ -1,6 +1,6 @@
-# <p align="center"><img src="https://api.iconify.design/lucide/trees.svg?color=%23C49A45" width="34" /> <span translate="no"> P.H.Ý.S.I.S </span> <img src="https://api.iconify.design/lucide/leaf.svg?color=%230B8F70" width="26" /></p>
+# <p align="center"><img src="https://api.iconify.design/lucide/trees.svg?color=%23C49A45" width="34" /> <span translate="no"> T.H.E.R.O.N </span> <img src="https://api.iconify.design/lucide/leaf.svg?color=%230B8F70" width="26" /></p>
 
-<h3 align="center">Preservation · Habitats · Yield · Species · Indicators · Sustainability</h3>
+<h3 align="center">Technology for Habitat and Ecosystem Restoration Observation Network</h3>
 
 <p align="center">
   Sistema de monitoramento da biodiversidade em áreas de restauração ambiental.
@@ -20,7 +20,7 @@
 
 <h2><img src="https://api.iconify.design/lucide/leaf.svg?color=%230B8F70" width="25" /> Sobre o projeto</h2>
 
-O **P.H.Y.S.I.S** é uma proposta de desenvolvimento de software voltada ao **registro e acompanhamento da biodiversidade em áreas submetidas a projetos de restauração ambiental**.
+O **T.H.E.R.O.N** é uma proposta de desenvolvimento de software voltada ao **registro e acompanhamento da biodiversidade em áreas submetidas a projetos de restauração ambiental**.
 
 A solução busca complementar o trabalho de recuperação de ecossistemas realizado pela **COLLARD Ambiental** e pelo **Sindicato Rural de Cruzeiro e Lavrinhas**, oferecendo uma ferramenta digital para organizar informações sobre a fauna silvestre observada nas propriedades e áreas monitoradas.
 
@@ -69,7 +69,7 @@ Nesse contexto, o acompanhamento da biodiversidade representa uma importante opo
 
 ### Nosso propósito
 
-O **P.H.Y.S.I.S** nasce com o propósito de contribuir com esse trabalho, oferecendo uma ferramenta tecnológica para organizar e centralizar informações sobre a biodiversidade observada nas áreas em recuperação.
+O **T.H.E.R.O.N** nasce com o propósito de contribuir com esse trabalho, oferecendo uma ferramenta tecnológica para organizar e centralizar informações sobre a biodiversidade observada nas áreas em recuperação.
 
 Por meio da plataforma, será possível cadastrar áreas de monitoramento, registrar observações de animais com fotografias, localização e identificação das espécies, além de manter um histórico dos levantamentos realizados.
 
@@ -112,7 +112,7 @@ Entre as possibilidades de aplicação estão:
 
 ### Nosso propósito
 
-O PHYSIS nasce com o propósito de aproximar tecnologia e conservação ambiental, oferecendo uma ferramenta que facilite a organização das informações coletadas em campo.
+O T.H.E.R.O.N nasce com o propósito de aproximar tecnologia e conservação ambiental, oferecendo uma ferramenta que facilite a organização das informações coletadas em campo.
 
 A proposta é contribuir para que os resultados das ações de restauração ambiental sejam avaliados de maneira mais abrangente, considerando também as evidências de presença e ocorrência da fauna silvestre nos ambientes em recuperação.
 
