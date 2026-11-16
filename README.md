@@ -61,7 +61,7 @@ Mais do que armazenar informações, o PHYSIS pretende transformar registros amb
   Parceria institucional
 </h2>
 
-O projeto **P.H.Y.S.I.S** é uma proposta desenvolvida em conjunto com a **COLLARD Ambiental** e o **Sindicato Rural de Cruzeiro e Lavrinhas**, instituições que atuam em iniciativas relacionadas à recuperação ambiental, conservação dos recursos naturais e desenvolvimento sustentável na região.
+O projeto **T.H.E.R.O.N** é uma proposta desenvolvida em conjunto com a **COLLARD Ambiental** e o **Sindicato Rural de Cruzeiro e Lavrinhas**, instituições que atuam em iniciativas relacionadas à recuperação ambiental, conservação dos recursos naturais e desenvolvimento sustentável na região.
 
 A atuação dessas instituições envolve ações voltadas à recuperação de áreas degradadas, ao acompanhamento de projetos ambientais e à promoção de práticas que contribuam para a conservação dos ecossistemas e o uso sustentável das propriedades rurais.
 
